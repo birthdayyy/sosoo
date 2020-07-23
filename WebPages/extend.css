@@ -1,0 +1,31 @@
+h1{
+color:white;
+font-family: Courier,Arial;
+font-size: 200%;
+font-style: oblique;
+font-variant: small-caps;
+background: black;
+text-align: center;
+
+
+}
+h2{
+
+	font-family: cursive;
+	color: white;}
+
+details{
+line-height: 200%;
+font-style: italic;
+color: white;
+}
+summary{
+
+	font-variant: small-caps;
+	color: white
+}
+body{
+
+	background: black;
+
+}
